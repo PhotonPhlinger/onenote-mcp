@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "onenote": {
+      "command": "node",
+      "args": ["/home/user/onenote-mcp/onenote-mcp.mjs"],
+      "env": {}
+    }
+  }
+}
